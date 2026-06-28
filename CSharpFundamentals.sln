@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#- Variables", "C#- Variables\C#- Variables.csproj", "{C21C964D-EF5F-447C-8F59-733495904F2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Boolean Data Type", "CSharp - Boolean Data Type\CSharp - Boolean Data Type.csproj", "{0517D4BE-5949-4351-A892-267A811A125F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C21C964D-EF5F-447C-8F59-733495904F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C21C964D-EF5F-447C-8F59-733495904F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C21C964D-EF5F-447C-8F59-733495904F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0517D4BE-5949-4351-A892-267A811A125F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0517D4BE-5949-4351-A892-267A811A125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0517D4BE-5949-4351-A892-267A811A125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0517D4BE-5949-4351-A892-267A811A125F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
