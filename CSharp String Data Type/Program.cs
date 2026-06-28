@@ -4,36 +4,45 @@
     {
         static void Main(string[] args)
         {
-            string hello = "Hello";
-            string world = "World!";
-            Console.WriteLine(hello + " " + world);
+            //StringComparison.OrdinalIgnoreCase => ignore if it's small or capital
+            Console.Write("Please Entre Your Name: ");
+            string name = Console.ReadLine();
 
-            Console.WriteLine("==================");
+            Console.WriteLine("==============");
 
-            string name = "Ahmed\t\tMahfouz\t\nSaad";
-            Console.WriteLine(name);
+            Console.Write("Please Entre Name You Want Replace: ");
+            string name1 = Console.ReadLine();
+            
+            Console.WriteLine("==============");
 
-            Console.WriteLine("==================");
+            Console.Write("Please Entre Name You Want Replace With: ");
+            string name2 = Console.ReadLine();
 
-            string _name = @"Ahmed\t\tMahfouz\t\nSaad";
-            Console.WriteLine(_name);
+            //Console.WriteLine($"Welcome {name}");
+            //Console.WriteLine("Welcome " + name);
+            //Console.WriteLine("==============");
+            //Console.WriteLine($"Length = {name.Length}");
+            //Console.WriteLine($"Upper Case = {name.ToUpper()}");
+            //Console.WriteLine($"Lower = {name.ToLower()}");
+            //Console.WriteLine("==============");
+            //Console.WriteLine(name.StartsWith("AH"));
+            //Console.WriteLine(name.StartsWith("A", StringComparison.OrdinalIgnoreCase));
+            //Console.WriteLine("==============");
+            //Console.WriteLine(name.EndsWith("AH"));
+            //Console.WriteLine(name.EndsWith("A", StringComparison.OrdinalIgnoreCase));
+            //Console.WriteLine("==============");
+            //Console.WriteLine(name.Contains("AH"));
+            //Console.WriteLine(name.Contains("Ax", StringComparison.OrdinalIgnoreCase));
+            //Console.WriteLine("==============");
+            //Console.WriteLine(name.IndexOf("Ah"));
+            //Console.WriteLine(name.IndexOf("Ax", StringComparison.OrdinalIgnoreCase));// -1 => mean not find
+            //Console.WriteLine("==============");
+            //Console.WriteLine(name.IndexOf("med"));
+            //Console.WriteLine(name.LastIndexOf("med", StringComparison.OrdinalIgnoreCase));
 
-            Console.WriteLine("==================");
+            Console.WriteLine("==============");
 
-            string name1 = "Mohammed";
-            Console.WriteLine("Hello " + name1 + " How Are You!");
-
-            Console.WriteLine("==================");
-
-            string name2 = "Mohammed";
-            Console.WriteLine($"Hello {name2} How Are You!");
-
-            Console.WriteLine("==================");
-
-            string statement = @"This is
-a CSharp
-This Is a new Line";
-            Console.WriteLine(statement);
+            Console.WriteLine(name.Replace(name1,name2));
         }
     }
 }
