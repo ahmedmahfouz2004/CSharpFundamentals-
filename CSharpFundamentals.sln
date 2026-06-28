@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#- Variables", "C#- Variab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Boolean Data Type", "CSharp - Boolean Data Type\CSharp - Boolean Data Type.csproj", "{0517D4BE-5949-4351-A892-267A811A125F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Char Data Type", "CSharp Char Data Type\CSharp Char Data Type.csproj", "{DCD8F8CE-8F13-4130-ABE2-AD4FE4382536}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0517D4BE-5949-4351-A892-267A811A125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0517D4BE-5949-4351-A892-267A811A125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0517D4BE-5949-4351-A892-267A811A125F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD8F8CE-8F13-4130-ABE2-AD4FE4382536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD8F8CE-8F13-4130-ABE2-AD4FE4382536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD8F8CE-8F13-4130-ABE2-AD4FE4382536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD8F8CE-8F13-4130-ABE2-AD4FE4382536}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
