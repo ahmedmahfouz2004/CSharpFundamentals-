@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Parse String", "CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control Flow & If Statement", "Control Flow & If Statement\Control Flow & If Statement.csproj", "{698F6710-D84E-4073-828B-24DE43B39431}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Arrays", "CSharp - Arrays\CSharp - Arrays.csproj", "{D67E8D93-C6A6-4079-83F7-DDF2B9509527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{698F6710-D84E-4073-828B-24DE43B39431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{698F6710-D84E-4073-828B-24DE43B39431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{698F6710-D84E-4073-828B-24DE43B39431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67E8D93-C6A6-4079-83F7-DDF2B9509527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E8D93-C6A6-4079-83F7-DDF2B9509527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E8D93-C6A6-4079-83F7-DDF2B9509527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E8D93-C6A6-4079-83F7-DDF2B9509527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
