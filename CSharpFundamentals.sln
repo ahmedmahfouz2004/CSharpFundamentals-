@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Switch Statement",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp - Methods", "Csharp - Methods\Csharp - Methods.csproj", "{C173641C-9B9F-4BD7-B73A-4CBE0964AE4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals - Control Flow – If Condition", "Fundamentals - Control Flow – If Condition\Fundamentals - Control Flow – If Condition.csproj", "{2D215F43-194E-4E9F-82C9-4255CE9D01D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C173641C-9B9F-4BD7-B73A-4CBE0964AE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C173641C-9B9F-4BD7-B73A-4CBE0964AE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C173641C-9B9F-4BD7-B73A-4CBE0964AE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D215F43-194E-4E9F-82C9-4255CE9D01D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D215F43-194E-4E9F-82C9-4255CE9D01D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D215F43-194E-4E9F-82C9-4255CE9D01D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D215F43-194E-4E9F-82C9-4255CE9D01D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
