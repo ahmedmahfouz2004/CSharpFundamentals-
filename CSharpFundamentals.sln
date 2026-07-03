@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - For & Foreach Trai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Do & While Loops", "CSharp Do & While Loops\CSharp Do & While Loops.csproj", "{BB912F7D-17A2-4690-B49E-BEFA7950153B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Switch Statement", "CSharp - Switch Statement\CSharp - Switch Statement.csproj", "{6A80013A-6316-454E-A266-6A935AB7E1B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A80013A-6316-454E-A266-6A935AB7E1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A80013A-6316-454E-A266-6A935AB7E1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A80013A-6316-454E-A266-6A935AB7E1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A80013A-6316-454E-A266-6A935AB7E1B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
