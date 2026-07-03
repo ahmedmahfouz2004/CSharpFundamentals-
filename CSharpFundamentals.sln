@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Ternary Operator",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Foreach Loop", "CSharp - Foreach Loop\CSharp - Foreach Loop.csproj", "{C3B10A78-0004-4931-925D-828CC75C70C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - For & Foreach Training", "CSharp - For & Foreach Training\CSharp - For & Foreach Training.csproj", "{1B6BEC67-DF49-40C3-B17C-83517E871B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C3B10A78-0004-4931-925D-828CC75C70C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3B10A78-0004-4931-925D-828CC75C70C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3B10A78-0004-4931-925D-828CC75C70C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
