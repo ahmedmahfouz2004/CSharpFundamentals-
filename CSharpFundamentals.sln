@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Foreach Loop", "CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - For & Foreach Training", "CSharp - For & Foreach Training\CSharp - For & Foreach Training.csproj", "{1B6BEC67-DF49-40C3-B17C-83517E871B1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Do & While Loops", "CSharp Do & While Loops\CSharp Do & While Loops.csproj", "{BB912F7D-17A2-4690-B49E-BEFA7950153B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B6BEC67-DF49-40C3-B17C-83517E871B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB912F7D-17A2-4690-B49E-BEFA7950153B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
