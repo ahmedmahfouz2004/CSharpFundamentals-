@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals - Loop With Wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop - Break, Continue", "Loop - Break, Continue\Loop - Break, Continue.csproj", "{3E685AFE-F34E-4913-8A2A-B79381F6DCD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop Training", "Loop Training\Loop Training.csproj", "{7D85582E-6F73-43D6-9D24-E7F8661CCAD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{3E685AFE-F34E-4913-8A2A-B79381F6DCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E685AFE-F34E-4913-8A2A-B79381F6DCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E685AFE-F34E-4913-8A2A-B79381F6DCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D85582E-6F73-43D6-9D24-E7F8661CCAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D85582E-6F73-43D6-9D24-E7F8661CCAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D85582E-6F73-43D6-9D24-E7F8661CCAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D85582E-6F73-43D6-9D24-E7F8661CCAD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
