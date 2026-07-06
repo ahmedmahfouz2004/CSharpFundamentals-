@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop Training", "Loop Train
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals - Function", "Fundamentals - Function\Fundamentals - Function.csproj", "{2F6FF208-9C41-4071-A154-4EC54D02B9F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals - Function Training", "Fundamentals - Function Training\Fundamentals - Function Training.csproj", "{3A670A07-1BDB-4A88-AEAF-1432D4144BBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{2F6FF208-9C41-4071-A154-4EC54D02B9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F6FF208-9C41-4071-A154-4EC54D02B9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F6FF208-9C41-4071-A154-4EC54D02B9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A670A07-1BDB-4A88-AEAF-1432D4144BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A670A07-1BDB-4A88-AEAF-1432D4144BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A670A07-1BDB-4A88-AEAF-1432D4144BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A670A07-1BDB-4A88-AEAF-1432D4144BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
