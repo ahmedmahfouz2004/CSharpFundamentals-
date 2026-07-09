@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training_Array Findings", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training Palindrome Words", "Training Palindrome Words\Training Palindrome Words.csproj", "{18DBE68F-25C2-49FD-8335-CE9E86E5403E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Value Types & Reference Types", "CSharp - Value Types & Reference Types\CSharp - Value Types & Reference Types.csproj", "{854DCFA1-476C-42B9-A01F-60EC4FC7F4AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{18DBE68F-25C2-49FD-8335-CE9E86E5403E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18DBE68F-25C2-49FD-8335-CE9E86E5403E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18DBE68F-25C2-49FD-8335-CE9E86E5403E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854DCFA1-476C-42B9-A01F-60EC4FC7F4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854DCFA1-476C-42B9-A01F-60EC4FC7F4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854DCFA1-476C-42B9-A01F-60EC4FC7F4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854DCFA1-476C-42B9-A01F-60EC4FC7F4AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
