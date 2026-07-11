@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Value Types & Refe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - String Formatting", "CSharp - String Formatting\CSharp - String Formatting.csproj", "{6445A57A-0E6E-4CCF-BAD6-95FDAC9640D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - String Split & Join", "CSharp - String Split & Join\CSharp - String Split & Join.csproj", "{F730FF85-8715-4BFB-987F-B8343669CE19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{6445A57A-0E6E-4CCF-BAD6-95FDAC9640D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6445A57A-0E6E-4CCF-BAD6-95FDAC9640D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6445A57A-0E6E-4CCF-BAD6-95FDAC9640D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F730FF85-8715-4BFB-987F-B8343669CE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F730FF85-8715-4BFB-987F-B8343669CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F730FF85-8715-4BFB-987F-B8343669CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F730FF85-8715-4BFB-987F-B8343669CE19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
