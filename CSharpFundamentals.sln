@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - String Split & Joi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Classes & Objects", "CSharp - Classes & Objects\CSharp - Classes & Objects.csproj", "{836DA216-73F8-4B14-9430-A0157CD0D76C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Constructor", "CSharp - Constructor\CSharp - Constructor.csproj", "{DD04E03A-8823-453F-94D0-48E8CF1D0F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{836DA216-73F8-4B14-9430-A0157CD0D76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{836DA216-73F8-4B14-9430-A0157CD0D76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{836DA216-73F8-4B14-9430-A0157CD0D76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD04E03A-8823-453F-94D0-48E8CF1D0F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD04E03A-8823-453F-94D0-48E8CF1D0F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD04E03A-8823-453F-94D0-48E8CF1D0F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD04E03A-8823-453F-94D0-48E8CF1D0F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
