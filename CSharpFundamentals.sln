@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Static Classes", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - ref & out Keywords", "CSharp - ref & out Keywords\CSharp - ref & out Keywords.csproj", "{02220721-B0A7-41DF-BFCB-933C90AC4289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp - Exceptions", "CSharp - Exceptions\CSharp - Exceptions.csproj", "{D9375C93-3C5C-4394-9AD3-90BA1B9FFBD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{02220721-B0A7-41DF-BFCB-933C90AC4289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02220721-B0A7-41DF-BFCB-933C90AC4289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02220721-B0A7-41DF-BFCB-933C90AC4289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9375C93-3C5C-4394-9AD3-90BA1B9FFBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9375C93-3C5C-4394-9AD3-90BA1B9FFBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9375C93-3C5C-4394-9AD3-90BA1B9FFBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9375C93-3C5C-4394-9AD3-90BA1B9FFBD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
